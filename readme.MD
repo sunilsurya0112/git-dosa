@@ -10,8 +10,12 @@
 * Dosa flour
 * Dosa flour
 
-# Special Dosa
-* Dosa batter
-* Bombai chutney
+
+
+# Special Dosa 
+* Dosa Batter
 * Podi
+* Karam
 * Oil
+* Bombai chutney
+
